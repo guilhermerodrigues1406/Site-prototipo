@@ -1,0 +1,14 @@
+.card1{
+    margin: 15px;
+    display: flex;
+    gap: 15px;
+}
+.jm{
+    background-color: black;
+    color: white;
+
+}
+.jm:hover{
+    color: palevioletred;
+    transition: 1s;
+}
